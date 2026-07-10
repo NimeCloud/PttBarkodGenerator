@@ -1,6 +1,6 @@
 # PTT Barkod Üretici (PTT Barcode Generator)
 
-[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com/download/dotnet/10.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 PTT kargo gönderileri için barkod numarası üreten bir **C# .NET 8** konsol uygulaması. Verilen 10 haneli başlangıç numarasından itibaren, belirtilen adet kadar ardışık barkod üretir ve her biri için **check digit** (kontrol basamağı) hesaplar.
@@ -106,7 +106,7 @@ Sonuç: RR06085766138 ✅
 
 ## ⚙️ Gereksinimler
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (veya üzeri)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0) (veya üzeri)
 - Windows, Linux veya macOS
 
 ---
